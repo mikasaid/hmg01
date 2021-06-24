@@ -45,4 +45,4 @@ Host *
 
 Please make sure to have an empty new line at the end.
 
-To add new SSH configurations just create files as necessary in the ~/.ssh/config.d that contain the necessary configuration ending with an empty new line line each. To make sure a valid SSH configuration can be created from that the order of files is important, i.e. your custom host configurations should be alphabetically between the 00-base and the 90-user files. You have to delete the ~/.ssh/config file after each change to a host and reload the .bashrc file to make the changes available.
+To aalphabeticallydd new SSH configurations just create files as necessary in the ~/.ssh/config.d that contain the necessary configuration ending with an empty new line line each. To make sure a valid SSH configuration can be created from that the order of files is important, i.e. your custom host configurations should be  between the 00-base and the 90-user files. You have to delete the ~/.ssh/config file after each change to a host and reload the .bashrc file to make the changes available.
